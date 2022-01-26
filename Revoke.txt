@@ -9,37 +9,38 @@ ppq-new-mr.oa-apple.com.akadns.net
 ppq-new-st.oa-apple.com.akadns.net
 
 ocsp.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp2.apple.com
-ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
-stripe.com
-entrust.net
-entrust.net.edgekey.net
-entrust.net.akadns.net
-entrust.net.edgesuite.net
-sectigo.com
-digicert.cn
-digicert.com
-incapdns.net
-usertrust.com
+ocsp2.g.aaplimg.com
 crl.apple.com
-crl.g.aaplimg.com
 crl-lb.apple.com.akadns.net
-digitalcertvalidation.com
+crl.g.aaplimg.com
 certs.apple.com
-certs.g.aaplimg.com
 certs-lb.apple.com.akadns.net
-iphonesubmissions.apple.com
-iphonesubmissions.v.aaplimg.com
-appattest.apple.com
+certs.g.aaplimg.com
 gslb.aaplimg.com
+appattest.apple.com
+ns.apple.com
 vpp.itunes.apple.com
 vpp.itunes-apple.com.akadns.net
 valid.apple.com
 valid-apple.g.aaplimg.com
 valid.origin-apple.com.akadns.net
+entrust.net
+entrust.net.akadns.net
+entrust.net.edgesuite.net
+d.akamai.net
+entrust.net.edgekey.net
+dscx.akamaiedge.net
+digicert.cn
+digicert.com
+wac.phicdn.net
+digicert.cn.w.cdngslb.com
+dnsmadeeasy.com
+incapdns.net
+
 
 CHẶN NÂNG CẤP IOS:
 
