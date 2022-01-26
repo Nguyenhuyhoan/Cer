@@ -1,3 +1,5 @@
+CHẶN THU HỒI:
+
 ppq.apple.com
 ppq-ext.v.aaplimg.com
 ppq-mr-ext.itunes.apple.com
@@ -38,6 +40,10 @@ vpp.itunes-apple.com.akadns.net
 valid.apple.com
 valid-apple.g.aaplimg.com
 valid.origin-apple.com.akadns.net
+
+CHẶN NÂNG CẤP IOS:
+
+gdmf.apple.com
 
 
 
