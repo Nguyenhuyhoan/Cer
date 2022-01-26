@@ -17,8 +17,8 @@ entrust.net
 entrust.net.edgekey.net
 entrust.net.akadns.net
 entrust.net.edgesuite.net
-digicert.cn
 sectigo.com
+digicert.cn
 digicert.com
 incapdns.net
 usertrust.com
@@ -38,7 +38,6 @@ vpp.itunes-apple.com.akadns.net
 valid.apple.com
 valid-apple.g.aaplimg.com
 valid.origin-apple.com.akadns.net
-
 
 
 
