@@ -33,7 +33,7 @@ entrust.net.akadns.net
 entrust.net.edgesuite.net
 d.akamai.net
 entrust.net.edgekey.net
-dscx.akamaiedge.net
+e6913.dscx.akamaiedge.net
 digicert.cn
 digicert.com
 wac.phicdn.net
