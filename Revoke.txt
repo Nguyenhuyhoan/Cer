@@ -36,7 +36,7 @@ entrust.net.edgekey.net
 e6913.dscx.akamaiedge.net
 digicert.cn
 digicert.com
-wac.phicdn.net
+phicdn.net
 digicert.cn.w.cdngslb.com
 dnsmadeeasy.com
 incapdns.net
